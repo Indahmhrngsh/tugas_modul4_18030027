@@ -1,0 +1,4 @@
+com/example/prak1andro_day4/BuildConfig.java
+ com.example.prak1andro_day4.BuildConfig
+com/example/prak1andro_day4/MainActivity.java
+ com.example.prak1andro_day4.MainActivity
